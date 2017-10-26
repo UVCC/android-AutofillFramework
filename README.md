@@ -8,6 +8,9 @@ This sample demonstrates the use of the Autofill Framework. It includes implemen
 Activities with views that should be autofilled, and a Service that can provide autofill data to
 client Activities.
 
+示例展示了如何使用自动填充框架。
+示例包含 Activity 通过 View 进行自动填充，以及一个可以给 Activity 提供自动填充数据的 Service 。
+
 Introduction
 ------------
 
