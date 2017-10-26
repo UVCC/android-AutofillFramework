@@ -1,5 +1,6 @@
 
 Android AutofillFramework Sample
+Android自动填充框架示例
 ===================================
 
 This sample demonstrates the use of the Autofill Framework. It includes implementations of client
